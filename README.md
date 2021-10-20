@@ -25,3 +25,7 @@ Creating a Basic Table
 4. define a basic table structure using plain HTMl
 5. use the table instance created in step 3 to bring life to the HTML defined in step 4.
 6. include the desired CSS
+
+--------------------------------------------------------------------------------------------
+
+Client side filter might work fine for a few thousands of records. More than that you might want to use server side filter.
