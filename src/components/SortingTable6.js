@@ -31,7 +31,7 @@ const SortingTable6 = () => {
             {headerGroup.headers.map((column) => (
               <th {...column.getHeaderProps(column.getSortByToggleProps())}>{column.render('Header')}
                 <span>
-                  {column.isSorted ? (column.isSortedDesc ? ' D' : ' A') : ''}
+                  {column.isSorted ? (column.isSortedDesc ? ' 🔼' : ' 🔽') : ''}
                 </span>
               </th>
             ))}
