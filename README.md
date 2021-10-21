@@ -29,3 +29,7 @@ Creating a Basic Table
 --------------------------------------------------------------------------------------------
 
 Client side filter might work fine for a few thousands of records. More than that you might want to use server side filter.
+
+-------------------------------------------------------------------------------------------
+
+Lesson 10, What is the benefit of using Debounce?
